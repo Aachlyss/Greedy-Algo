@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задача за вълагане на дейности", "Задача за вълагане на дейности\Задача за вълагане на дейности.csproj", "{87A2ECDE-2398-45DD-A0D3-B8BDF548B3B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87A2ECDE-2398-45DD-A0D3-B8BDF548B3B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87A2ECDE-2398-45DD-A0D3-B8BDF548B3B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87A2ECDE-2398-45DD-A0D3-B8BDF548B3B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87A2ECDE-2398-45DD-A0D3-B8BDF548B3B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B8CB72C-D8AB-4F21-9B97-17C27A47A95A}
+	EndGlobalSection
+EndGlobal

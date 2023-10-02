@@ -20,11 +20,15 @@
                 if (currentSum == finalSum)
                 {
 
-                    Console.WriteLine("Sum Found");
+                    // Sum Found
+                    Console.WriteLine("Sum found = " + currentSum);
+
+
                 }
                 else
                 {
-                    Console.WriteLine("Sum not found");
+                    Console.WriteLine("Sum not Found = " + currentSum);
+
                 }
             }
             
